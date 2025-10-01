@@ -1,3 +1,19 @@
+Comandos para rodar: 
+npm run dev
+
+Paginas: 
+
+Detalhes.tsx
+Home.tsx
+not-found.tsx
+NovaSessao.tsx
+
+
+UseMemo está em study-list.tsx
+
+UseCallBack está no App.tsx
+
+
 RM563593 - WESLEY SILVA DE ANDRADE
 RM565421 - JOAO PEDRO SCARPIN 
 RM566150 - GABRIEL WINCE 
