@@ -5,6 +5,7 @@ import type { StudySession } from './types/StudySession';
 import { ErrorBoundary } from 'react-error-boundary';
 import { Suspense } from 'react';
 import { ErrorFallback } from './components/error-fallback';
+
 import { Loading } from './components/loading';
 
 const HomePage = lazy(() =>
